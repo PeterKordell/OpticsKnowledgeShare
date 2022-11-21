@@ -1,2 +1,2 @@
-# Light Matter Interactions KnowledgeShare
+# Light Matter Interactions Knowledge Share
 See folders for topics
